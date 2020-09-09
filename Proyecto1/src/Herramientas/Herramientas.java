@@ -5,13 +5,10 @@
  */
 package Herramientas;
 
-import static java.time.Clock.system;
-
 /**
  *
  * @author Alejandra
  */
-public class Herramientas {
-system.out.print("hola perros"); 
+public class Herramientas {//putosssssssssssssssssssssss
 
 }
