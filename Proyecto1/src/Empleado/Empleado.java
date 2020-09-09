@@ -12,5 +12,4 @@ package Empleado;
 public class Empleado {
     //hola pinches putitos
     
-    
 }
