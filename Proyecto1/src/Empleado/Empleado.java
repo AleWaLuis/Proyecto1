@@ -9,6 +9,8 @@ package Empleado;
  *
  * @author Alejandra
  */
-public class Herramienta {
+public class Empleado {
+    //hola pinches putitos
+    
     
 }
